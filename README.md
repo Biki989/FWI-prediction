@@ -3,7 +3,7 @@
 A Machine Learning web app that predicts the **Fire Weather Index (FWI)** using weather data.
 
 🚀 **Live App:**
-https://fwi-prediction-seven.vercel.app/
+https://fwi-prediction-seven.vercel.app
 
 ---
 
